@@ -1,5 +1,5 @@
 // src/views/UserForm.js
-var m = require("mithril")
+var m = require("mithril").default
 var User = require("../models/User")
 
 module.exports = {

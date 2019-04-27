@@ -1,5 +1,5 @@
 // src/models/User.js
-var m = require("mithril")
+var m = require("mithril").default
 
 var User = {
     list: [],
